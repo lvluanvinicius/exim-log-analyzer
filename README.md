@@ -20,6 +20,6 @@ Este projeto consiste em uma ferramenta desenvolvida em Python para analisar os 
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/exim_log_analyzer.git
-   cd exim_log_analyzer
+   git clone https://github.com/lvluanvinicius/exim-log-analyzer.git
+   cd exim-log-analyzer
    ```
